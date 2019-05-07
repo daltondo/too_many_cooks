@@ -1,2 +1,2 @@
-# too_many_cooks
+# Too Many Cooks
 Unity Project Files for our game "Too Many Cooks"
