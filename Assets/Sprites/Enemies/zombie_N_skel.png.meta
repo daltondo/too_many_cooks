@@ -1,0 +1,292 @@
+fileFormatVersion: 2
+guid: e3d9bbccd1d885445a16f9458023e807
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: zombie_N_skel_0
+    21300002: zombie_N_skel_1
+    21300004: zombie_N_skel_2
+    21300006: zombie_N_skel_3
+    21300008: zombie_N_skel_4
+    21300010: zombie_N_skel_5
+    21300012: zombie_N_skel_6
+    21300014: zombie_N_skel_7
+    21300016: zombie_N_skel_8
+    21300018: zombie_N_skel_9
+    21300020: zombie_N_skel_10
+    21300022: zombie_N_skel_11
+    21300024: zombie_N_skel_12
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zombie_N_skel_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 305
+        width: 172
+        height: 179
+      alignment: 9
+      pivot: {x: 0.50000006, y: 0.05523886}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818a33fdcc68a63418fb23de5bcf8390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_N_skel_1
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 303
+        width: 66
+        height: 71
+      alignment: 9
+      pivot: {x: 0.74871063, y: 0.8236746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0bf5f72206da4a42a06a0dce149645a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_N_skel_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 329
+        width: 42
+        height: 31
+      alignment: 9
+      pivot: {x: 0.46091715, y: 0.7912332}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e9a7a88ecbb66458355fe50c64b064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_N_skel_3
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 120
+        width: 113
+        height: 157
+      alignment: 9
+      pivot: {x: 0.5145265, y: 0.12360737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c39d854b294e34ab36fd3bcab87994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_N_skel_4
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 219
+        width: 63
+        height: 75
+      alignment: 9
+      pivot: {x: 0.3045848, y: 0.76263875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59bc2ba5b5bcc84da83d7408ac1c85f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_N_skel_5
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 244
+        width: 44
+        height: 31
+      alignment: 9
+      pivot: {x: 0.537307, y: 0.7912332}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37eb351243caa9e4f8a1e07eba7162b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_N_skel_6
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 129
+        width: 37
+        height: 61
+      alignment: 9
+      pivot: {x: 0.50000083, y: 0.9036455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000e055ddc3cff24cb501a44938f8dab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_N_skel_7
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 130
+        width: 37
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8966942}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebdb274eb142a1479f335db63ea9059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_N_skel_8
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 35
+        width: 152
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5ae7063d3c38e4fb9f60710578c81d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 070ae88e0a2e30048879c58a67481776
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{DFF34D98-62F6-7049-EE90-E460F6B65288}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Cutting Scripts Trials/CleanCuttingStation.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerInteract.cs" Line="117" Column="77" />
+      <File FileName="Assets/Scripts/Cutting Scripts Trials/CleanCuttingStation.cs" Line="176" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

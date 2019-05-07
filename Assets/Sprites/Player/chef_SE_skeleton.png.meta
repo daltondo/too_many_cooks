@@ -1,0 +1,288 @@
+fileFormatVersion: 2
+guid: 2d190958adefe184581b4275e927bf01
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: chef_SE_skeleton_0
+    21300002: chef_SE_skeleton_1
+    21300004: chef_SE_skeleton_2
+    21300006: chef_SE_skeleton_3
+    21300008: chef_SE_skeleton_4
+    21300010: chef_SE_skeleton_5
+    21300012: chef_SE_skeleton_6
+    21300014: chef_SE_skeleton_7
+    21300016: chef_SE_skeleton_8
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: chef_SE_skeleton_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 434
+        width: 204
+        height: 145
+      alignment: 9
+      pivot: {x: 0.43513948, y: 0.08585584}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770f01c3de53c8647b4237fee05d27a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chef_SE_skeleton_1
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 474
+        width: 86
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5828453, y: 0.31305492}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67b4511e795a524ea2beaa9fc5c675c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chef_SE_skeleton_2
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 240
+        width: 179
+        height: 178
+      alignment: 9
+      pivot: {x: 0.44882527, y: 0.071146674}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce724004c7f789e46a94f85ce7e47e24
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chef_SE_skeleton_3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 330
+        width: 100
+        height: 76
+      alignment: 9
+      pivot: {x: 0.23536927, y: 0.91515994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae7c7e0e5e24924294336197189df9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chef_SE_skeleton_4
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 235
+        width: 83
+        height: 72
+      alignment: 9
+      pivot: {x: 0.09532809, y: 0.89581555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f26763a9e520349a7ff495f4564d1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chef_SE_skeleton_5
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 95
+        width: 104
+        height: 107
+      alignment: 9
+      pivot: {x: 0.54893345, y: 0.119509615}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1359d6017404b9d4e8ff3fc51533eb63
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chef_SE_skeleton_6
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 136
+        width: 67
+        height: 70
+      alignment: 9
+      pivot: {x: 0.54557365, y: 0.8053436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7518dd74eb95801409c09145ed7d38b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chef_SE_skeleton_7
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 137
+        width: 50
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5203564, y: 0.89827406}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b56bc1f96db45448b4625d272ee69b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chef_SE_skeleton_8
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 31
+        width: 152
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce84c9e1d1d68644886273d4f4f59fab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 901cc4ceff2fdbf4b9d137803b470b63
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,288 @@
+fileFormatVersion: 2
+guid: 17d3ef9841fd9e14b835444927330276
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: zombie_W_skel_0
+    21300002: zombie_W_skel_1
+    21300004: zombie_W_skel_2
+    21300006: zombie_W_skel_3
+    21300008: zombie_W_skel_4
+    21300010: zombie_W_skel_5
+    21300012: zombie_W_skel_6
+    21300014: zombie_W_skel_7
+    21300016: zombie_W_skel_8
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zombie_W_skel_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 436
+        width: 46
+        height: 38
+      alignment: 9
+      pivot: {x: 0.806093, y: 0.60897905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f06c4877fa4ae42a85d9779cf2f3a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_W_skel_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 420
+        width: 117
+        height: 51
+      alignment: 9
+      pivot: {x: 0.8822701, y: 0.7111218}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36635bb9b0c03e347bb41460a84151ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_W_skel_2
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 307
+        width: 181
+        height: 165
+      alignment: 9
+      pivot: {x: 0.51372766, y: 0.08838353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84b08987141d134fa5ceb8a222abda0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_W_skel_3
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 223
+        width: 89
+        height: 165
+      alignment: 9
+      pivot: {x: 0.5093061, y: 0.10846234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa71190e0a70ec4a9b3e9a26c9e2b11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_W_skel_4
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 201
+        width: 50
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5331296, y: 0.8654045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc88b82709a98af45956ca54fabd37c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_W_skel_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 235
+        width: 38
+        height: 34
+      alignment: 9
+      pivot: {x: 0.7615517, y: 0.59744036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9228528aaa433a04bac9fc0300db2fed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_W_skel_6
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 114
+        width: 96
+        height: 55
+      alignment: 9
+      pivot: {x: 0.9054983, y: 0.7861228}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471019e44c9b4e74b89e28f3128cb3f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_W_skel_7
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 94
+        width: 38
+        height: 64
+      alignment: 9
+      pivot: {x: 0.54359156, y: 0.8882425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19286cda0d32d6749bdd124c4949ef15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_W_skel_8
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 88
+        width: 155
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecd5d4639ca3ea4b86deeba6337652e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3c0a633762e4c5f42928109343e0e202
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
